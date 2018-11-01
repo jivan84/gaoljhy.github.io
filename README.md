@@ -1,13 +1,15 @@
 ## Welcome to My HomePage
 
-You can find all the information [on GitHub](https://github.com/gaoljhy/gaoljhy.github.io) 
+You can find all the information [on GitHub](https://github.com/gaoljhy) 
 
 ---
 
 Scholar and Developer
 -----------------------
 
-<!-- Phone: [158xxxxxxx](tel://158xxxx) -->
+<!-- Phone: [158xxxxxxx](tel://15848) -->
+
+- Name:[name] 高荣基
 - Email: <gjlove666@hotmail.com>
 - Blog: [github](https://gaoljhy.github.io/blog)
 - && Blog：[csdn](https://blog.csdn.net/lendq)
