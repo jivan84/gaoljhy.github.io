@@ -1,23 +1,24 @@
-## Welcome to My HomePage
+# Welcome to My HomePage
 
-You can find all the information [on GitHub](https://github.com/gaoljhy) 
+You can find all the information [on GitHub](https://github.com/gaoljhy)
 
 ---
 
 Scholar and Developer
------------------------
+
+-----------------------;
 
 <!-- Phone: [158xxxxxxx](tel://15848) -->
 
-- Name:[name] 高荣基
+- Name:[name] 高僧
 - Email: <gjlove666@hotmail.com>
 - Blog: [github](https://gaoljhy.github.io/blog)
 - && Blog：[csdn](https://blog.csdn.net/lendq)
 - Github: [gaoljhy](http://github.com/gaoljhy)
 - Twitter: [\@Gaoj](https://twitter.com/Gaoj_love)
 
+## Summary
 
-Summary
 -------
 
 - Exercise regularly
@@ -27,15 +28,19 @@ Summary
 - Received some minor competition awards
 - Hope for greater progress
 
+-----------------;
+
 ## Education
+
 ### Inner Mongolia Agricultural University
+
 BS , Network Engineering , 2016-2020
 
+### Skills & Expertise
 
-Skills & Expertise
-------------------
+These are languages, tools, and practices to which I have had exposure over the past 5 years or so.
 
-These are languages, tools, and practices to which I have had exposure over the past 5 years or so. 
+------------------------;
 
 ### Programming Languages
 
