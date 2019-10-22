@@ -124,6 +124,7 @@ These are languages, tools, and practices to which I have had exposure over the 
 - Zabbix
 - Homemade OS operate
 - Self-design language
+- self-design hardware
 - ACM competition second prize
 - National Robot Competition Second Prize
 
@@ -131,3 +132,4 @@ These are languages, tools, and practices to which I have had exposure over the 
 
 - [Ardunio](https://www.arduino.cc/)
 - [Rasberry Pi](https://www.raspberrypi.org/)
+- Proteus(https://www.proteus.com/)
