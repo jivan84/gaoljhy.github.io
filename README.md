@@ -124,6 +124,8 @@ These are languages, tools, and practices to which I have had exposure over the 
 - Zabbix
 - Homemade OS operate
 - Self-design language
+- ACM competition second prize
+- National Robot Competition Second Prize
 
 ## Hardware
 
