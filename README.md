@@ -3,7 +3,7 @@
 You can find all the information [on GitHub](https://github.com/gaoljhy)
 
 > Because it was used as a whole, the personal blog is now changed to private. Please contact me if necessary.
-> So. you can find my blog Folder infomation in [this](./Folder)
+>> So. you can find my blog Folder infomation in [this](./Folder)
 
 ---
 
