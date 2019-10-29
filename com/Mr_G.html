@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <title>Mr_G_Home</title>
+  <meta name="keywords" content="Mr_G" />
+  <meta name="description" content="Mr_G" />
+  <link rel="shortcut icon" href="./Mr_G_files/favicon.ico" tppabs="../favicon.ico" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+  <link rel="stylesheet" href="./Mr_G_files/main.css" tppabs="/assets/css/main.css" />
+</head>
+
+<body onselectstart="return false" oncontextmenu="self.event.returnValue=false" class="">
+  <!-- 禁止右键和禁止选中文字 -->
+
+  <!-- Wrapper -->
+  <div id="wrapper" style="scroll-behavior:smooth;">
+    <!-- Header -->
+    <header id="header" style="scroll-behavior:smooth;">
+      <img src=" ./Mr_G_files/favicon.ico" class="logo" />
+      <div class="content">
+        <div class="inner">
+          <h1>MR—G</h1>
+
+          <script type="text/javascript" src="https://api.lwl12.com/hitokoto/v1?encode=js&charset=utf-8"></script>
+          <span id="lwlhitokoto">
+            <script>
+              lwlhitokoto();
+            </script>
+          </span>
+        </div>
+      </div>
+      <nav>
+        <ul>
+          <li>
+            <a href="#" target="_blank">走！跟我来</a>
+          </li>
+
+          <!--<li><a href="#elements">Elements</a></li>-->
+        </ul>
+      </nav>
+    </header>
+    <p></p>
+    <p></p>
+    <p></p>
+    <p>
+      <span id="momk">本站已安全运行：</span>
+      <span id="momk" style="color: #ff0000;"> </span>
+
+      <script type="text/javascript">
+        function NewDate(str) {
+          str = str.split("-");
+          var date = new Date();
+          date.setUTCFullYear(str[0], str[1] - 1, str[2]);
+          date.setUTCHours(0, 0, 0, 0);
+          return date;
+        }
+
+        function momxc() {
+          var birthDay = NewDate("2018-12-01");
+          var today = new Date();
+          var timeold = today.getTime() - birthDay.getTime();
+          var sectimeold = timeold / 1000;
+          var secondsold = Math.floor(sectimeold);
+          var msPerDay = 24 * 60 * 60 * 1000;
+          var e_daysold = timeold / msPerDay;
+          var daysold = Math.floor(e_daysold);
+          var e_hrsold = (daysold - e_daysold) * -24;
+          var hrsold = Math.floor(e_hrsold);
+          var e_minsold = (hrsold - e_hrsold) * -60;
+          var minsold = Math.floor((hrsold - e_hrsold) * -60);
+          var seconds = Math.floor((minsold - e_minsold) * -60).toString();
+          document.getElementById("momk").innerHTML =
+            "本站已安全运行：" +
+            daysold +
+            "天" +
+            hrsold +
+            "小时" +
+            minsold +
+            "分" +
+            seconds +
+            "秒";
+          setTimeout(momxc, 1000);
+        }
+        momxc();
+      </script>
+
+      <style>
+        #momk {
+            animation: change 10s infinite;
+            font-weight: 800;
+          }
+
+          @keyframes change {
+            0% {
+              color: #5cb85c;
+            }
+
+            25% {
+              color: #556bd8;
+            }
+
+            50% {
+              color: #e40707;
+            }
+
+            75% {
+              color: #66e616;
+            }
+
+            100% {
+              color: #67bd31;
+            }
+          }
+        </style>
+    </p>
+
+    <!-- Footer -->
+    <footer id="footer">
+      <p>个性の我，不羁的活</p>
+      <div class="copyright">
+        <br /><br />Copyright ©2018-12-1 <a href="#">Mr_G</a> All rights
+        reserved.
+      </div>
+    </footer>
+  </div>
+
+  <audio autoplay="autoplay" loop="loop">
+    <source src="./Mr_G_files/background.m4a" type="audio/mpeg" />
+    Your browser does not support the audio element.
+  </audio>
+
+  <!-- Scripts -->
+  <script src="./Mr_G_files/jquery.min.js"></script>
+  <script src="./Mr_G_files/skel.min.js"></script>
+  <script src="./Mr_G_files/util.js"></script>
+  <script src="./Mr_G_files/main.js"></script>
+
+</body>
+
+</html>
