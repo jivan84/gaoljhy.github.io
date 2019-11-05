@@ -18,17 +18,20 @@ Scholar and Developer
 - Phone: [18503498358](tel://18503498358)
 - Github: [gaoljhy](http://github.com/gaoljhy)
 - Site: <http://grj321.com>
+- Dream position: **R&D or Operations**
+
 
 ## Summary
 
 -------
 
-- Exercise regularly
-- Personality independence
-- Keen to learn without interruption
+- Exercise regularly (Six-pack abs)
+- Personality independence (bad words)
+- Keen to learn without interruption (see my github profile)
 - Worked on projects with others, and also independently assumed some - small projects
-- Received some minor competition awards
+- Received some minor competition awards (ACM,Innovation and entrepreneurship,Robot contest)
 - Hope for greater progress
+- self-study ability (The Internet is the best teacher in my life.)
 
 -----------------;
 
@@ -37,6 +40,18 @@ Scholar and Developer
 ### Inner Mongolia Agricultural University
 
 BS , Network Engineering , 2016-2020
+
+## Work Experience
+
+### 乐檬 （2018年12月 ~ now ）
+
+### 商城后端
+
+我在此项目负责了哪些工作，在哪些地方做得出色/和别人不一样/成长快，这个项目中，我最困难的问题是什么，我采取了什么措施，最后结果如何。这个项目中，我最自豪的技术细节是什么，为什么，实施前和实施后的数据对比如何，同事和领导对此的反应如何。
+
+### k8s编排
+
+
 
 ## Skills & Expertise
 
@@ -121,9 +136,9 @@ These are languages, tools, and practices to which I have had exposure over the 
 - workflow use
 - ansible , paramiko
 - Zabbix
-- Homemade OS operate
+- Homemade OS operate (in raspberry pi)
 - Self-design language
-- self-design hardware
+- self-design hardware (Proteus)
 - ACM competition second prize
 - National Robot Competition Second Prize
 
