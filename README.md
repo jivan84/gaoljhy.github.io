@@ -1,5 +1,7 @@
 # Welcome to My HomePage
 
+My motto : If you have a goal, then you will find a way to achieve it. 
+
 You can find all the information [on GitHub](https://github.com/gaoljhy)
 
 > Because it was used as a whole, the personal blog is now changed to private. Please contact me if necessary.
@@ -41,6 +43,11 @@ Scholar and Developer
 
 BS , Network Engineering , 2016-2020
 
+
+## Skills & Expertise
+
+These are languages, tools, experience and practices to which I have had exposure over the past 5 years or so.
+
 ## Work Experience
 
 ### 乐檬 （2018年12月 ~ now ）
@@ -53,11 +60,6 @@ In this project, the API interaction design of the front and back ends, and user
 
 In the application deployment, my colleague and I completed the migration from the traditional deployment to the kubernetes Cluster, which realized the use of `24/7` all-weather, and facilitated the deployment of the new version of the application multiple times. 
 
-## Skills & Expertise
-
-These are languages, tools, and practices to which I have had exposure over the past 5 years or so.
-
-------------------------;
 
 ### Programming Languages
 
