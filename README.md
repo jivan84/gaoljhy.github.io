@@ -48,15 +48,15 @@ BS , Network Engineering , 2016-2020
 
 These are languages, tools, experience and practices to which I have had exposure over the past 5 years or so.
 
-## Work Experience
+### Work Experience
 
-### 乐檬 （2018年12月 ~ now ）
+#### 乐檬 （2018年12月 ~ now ）
 
-### Mall Backend
+- Mall Backend
 
 In this project, the API interaction design of the front and back ends, and user permission design, the user design of the Linux system is borrowed from the user design, and finally the multi-user different permissions are realized.
 
-### k8s编排
+- k8s编排
 
 In the application deployment, my colleague and I completed the migration from the traditional deployment to the kubernetes Cluster, which realized the use of `24/7` all-weather, and facilitated the deployment of the new version of the application multiple times. 
 
