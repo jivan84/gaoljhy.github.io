@@ -45,13 +45,13 @@ BS , Network Engineering , 2016-2020
 
 ### 乐檬 （2018年12月 ~ now ）
 
-### 商城后端
+### Mall Backend
 
-我在此项目负责了哪些工作，在哪些地方做得出色/和别人不一样/成长快，这个项目中，我最困难的问题是什么，我采取了什么措施，最后结果如何。这个项目中，我最自豪的技术细节是什么，为什么，实施前和实施后的数据对比如何，同事和领导对此的反应如何。
+In this project, the API interaction design of the front and back ends, and user permission design, the user design of the Linux system is borrowed from the user design, and finally the multi-user different permissions are realized.
 
 ### k8s编排
 
-
+In the application deployment, my colleague and I completed the migration from the traditional deployment to the kubernetes Cluster, which realized the use of `24/7` all-weather, and facilitated the deployment of the new version of the application multiple times. 
 
 ## Skills & Expertise
 
