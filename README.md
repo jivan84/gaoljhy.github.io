@@ -15,7 +15,7 @@ Scholar and Developer
 - Email: <gjlove666@hotmail.com>
 - Blog: [github](https://gaoljhy.github.io/blog)
 - && Blog：[csdn](https://blog.csdn.net/lendq)
-- Phone: [158xxxxxxx](tel://18503498358)
+- Phone: [18503498358](tel://18503498358)
 - Github: [gaoljhy](http://github.com/gaoljhy)
 - Site: <http://grj321.com>
 
