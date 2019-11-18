@@ -35,7 +35,7 @@ Scholar and Developer
 - Hope for greater progress
 - self-study ability (The Internet is the best teacher in my life.)
 
------------------;
+----------------
 
 ## Education
 
@@ -43,12 +43,7 @@ Scholar and Developer
 
 BS , Network Engineering , 2016-2020
 
-
-## Skills & Expertise
-
-These are languages, tools, experience and practices to which I have had exposure over the past 5 years or so.
-
-My major road with python dev and container ops
+----------------
 
 ## Work Experience
 
@@ -62,6 +57,13 @@ In this project, the API interaction design of the front and back ends, and user
 
 In the application deployment, my colleague and I completed the migration from the traditional deployment to the kubernetes Cluster, which realized the use of `24/7` all-weather, and facilitated the deployment of the new version of the application multiple times. 
 
+----------
+
+## Skills & Expertise
+
+These are languages, tools, experience and practices to which I have had exposure over the past 5 years or so.
+
+My major road with python dev and container ops
 
 ### Programming Languages
 
@@ -134,6 +136,7 @@ In the application deployment, my colleague and I completed the migration from t
 - [Nginx](http://wiki.nginx.org)
 - [Redis](https://redis.io/)
 
+----------------
 
 ### Others
 
@@ -146,6 +149,8 @@ In the application deployment, my colleague and I completed the migration from t
 - self-design hardware (Proteus)
 - ACM competition second prize
 - National Robot Competition Second Prize
+
+----------------
 
 ## Hardware
 
