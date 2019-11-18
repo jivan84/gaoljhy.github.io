@@ -47,7 +47,8 @@ BS , Network Engineering , 2016-2020
 ## Skills & Expertise
 
 These are languages, tools, experience and practices to which I have had exposure over the past 5 years or so.
-> My major road with python dev and container ops
+
+My major road with python dev and container ops
 
 ### Work Experience
 
