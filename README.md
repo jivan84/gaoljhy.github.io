@@ -50,9 +50,9 @@ These are languages, tools, experience and practices to which I have had exposur
 
 My major road with python dev and container ops
 
-### Work Experience
+## Work Experience
 
-#### 蒙神蜂 （2017年8月 ~ 2018年3月 ）
+### 蒙神蜂 （2017年8月 ~ 2018年3月 ）
 
 - Mall Backend
 
@@ -133,6 +133,7 @@ In the application deployment, my colleague and I completed the migration from t
 
 - [Nginx](http://wiki.nginx.org)
 - [Redis](https://redis.io/)
+
 
 ### Others
 
