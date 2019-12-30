@@ -73,27 +73,14 @@ My major road with python dev and container ops
 - [python](https://www.python.org/)
 - [Bash](https://www.gnu.org/software/bash/)
 
-> secondary
+> secondary (once in a while)
 
 - [java](https://www.java.com/en/)
 - [CSharp](https://docs.microsoft.com/zh-cn/dotnet/csharp/)
 - [PHP](http://php.net)
 - [JavaScript](http://developer.mozilla.org/en/JavaScript)
 - [Node.js](https://nodejs.org/en/)
-- [Ruby](http://ruby-lang.org)
 
-
-
-### Markup/Templating Languages & Preprocessors
-
-- [HTML](http://developers.whatwg.org)
-- [Markdown](http://daringfireball.net/projects/markdown)
-- [CSS](http://www.w3.org/Style/CSS/Overview.en.html)
-
-- [xml](https://www.w3schools.com/xml/)
-- [json](https://json.org/)
-- [Yaml](https://yaml.org/)
-- [SVG](https://www.w3schools.com/graphics/svg_intro.asp)
 
 ### Frameworks & APIs
 
@@ -138,6 +125,17 @@ My major road with python dev and container ops
 
 - [Nginx](http://wiki.nginx.org)
 - [Redis](https://redis.io/)
+
+### Markup/Templating Languages & Preprocessors
+
+- [HTML](http://developers.whatwg.org)
+- [Markdown](http://daringfireball.net/projects/markdown)
+- [CSS](http://www.w3.org/Style/CSS/Overview.en.html)
+
+- [xml](https://www.w3schools.com/xml/)
+- [json](https://json.org/)
+- [Yaml](https://yaml.org/)
+- [SVG](https://www.w3schools.com/graphics/svg_intro.asp)
 
 ----------------
 
