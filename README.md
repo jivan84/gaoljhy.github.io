@@ -73,14 +73,6 @@ My major road with python dev and container ops
 - [python](https://www.python.org/)
 - [Bash](https://www.gnu.org/software/bash/)
 
-> secondary (once in a while)
-
-- [java](https://www.java.com/en/)
-- [CSharp](https://docs.microsoft.com/zh-cn/dotnet/csharp/)
-- [PHP](http://php.net)
-- [JavaScript](http://developer.mozilla.org/en/JavaScript)
-- [Node.js](https://nodejs.org/en/)
-
 
 ### Frameworks & APIs
 
@@ -113,12 +105,6 @@ My major road with python dev and container ops
 
 - [postwoman](https://postwoman.io/)
 
->  [Tomcat](http://tomcat.apache.com)
->  [maven](https://maven.apache.org)
->  [junit](https://junit.org/junit5/)
->  [NPM](https://www.npmjs.cn/)
->  [yarn](https://yarn.bootcss.com/)
-
 
 - [SQLite](https://sqlite.org/index.html)
 - [MySQL](http://mysql.com)
@@ -136,6 +122,21 @@ My major road with python dev and container ops
 - [json](https://json.org/)
 - [Yaml](https://yaml.org/)
 - [SVG](https://www.w3schools.com/graphics/svg_intro.asp)
+
+> secondary (once in a while)
+
+- [java](https://www.java.com/en/)
+- [CSharp](https://docs.microsoft.com/zh-cn/dotnet/csharp/)
+- [PHP](http://php.net)
+- [JavaScript](http://developer.mozilla.org/en/JavaScript)
+- [Node.js](https://nodejs.org/en/)
+
+-  [Tomcat](http://tomcat.apache.com)
+-  [maven](https://maven.apache.org)
+-  [junit](https://junit.org/junit5/)
+-  [NPM](https://www.npmjs.cn/)
+-  [yarn](https://yarn.bootcss.com/)
+
 
 ----------------
 
