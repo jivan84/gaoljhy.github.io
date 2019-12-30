@@ -53,9 +53,9 @@ BS , Network Engineering , 2016-2020
 
 In this project, the API interaction design of the front and back ends, and user permission design, the user design of the Linux system is borrowed from the user design, and finally the multi-user different permissions are realized.
 
-- k8s编排
+- Docker Ops
 
-In the application deployment, my colleague and I completed the migration from the traditional deployment to the kubernetes Cluster, which realized the use of `24/7` all-weather, and facilitated the deployment of the new version of the application multiple times. 
+In the application deployment, my colleague and I completed the migration from the traditional deployment to the Docker Cluster, which realized the use of `24/7` all-weather, and facilitated the deployment of the new version of the application multiple times. 
 
 ----------
 
@@ -99,15 +99,15 @@ My major road with python dev and container ops
 
 - [flask](https://palletsprojects.com/p/flask/)
 - [Django](http://www.djangoproject.com)
-- [SpringBoot](https://spring.io/projects/spring-boot)
-- [Wordpress](http://wordpress.org)
+- [Celery](https://github.com/celery/celery)
 
-- [bootstrap](https://www.bootcss.com/)
-- [jQuery](http://jquery.com)
+>  [SpringBoot](https://spring.io/projects/spring-boot)
+>  [Wordpress](http://wordpress.org)
+>  [bootstrap](https://www.bootcss.com/)
+>  [jQuery](http://jquery.com)
 
 ### Software & Tools
 
-- [kubernetes](https://kubernetes.io/)
 
 - [Mac OS X](http://apple.com/macosx)
 - [Ubuntu Linux](http://ubuntu.com)
@@ -122,13 +122,16 @@ My major road with python dev and container ops
 - [Vim](http://www.vim.org)
 - [Screen](http://screen.sourceforge.net)
 - [Apple XCode](http://developer.apple.com)
+- [kubernetes](https://kubernetes.io/)
 
-- [Tomcat](http://tomcat.apache.com)
-- [maven](https://maven.apache.org)
-- [junit](https://junit.org/junit5/)
+- [postwoman](https://postwoman.io/)
 
-- [NPM](https://www.npmjs.cn/)
-- [yarn](https://yarn.bootcss.com/)
+>  [Tomcat](http://tomcat.apache.com)
+>  [maven](https://maven.apache.org)
+>  [junit](https://junit.org/junit5/)
+>  [NPM](https://www.npmjs.cn/)
+>  [yarn](https://yarn.bootcss.com/)
+
 
 - [SQLite](https://sqlite.org/index.html)
 - [MySQL](http://mysql.com)
@@ -156,4 +159,4 @@ My major road with python dev and container ops
 
 - [Ardunio](https://www.arduino.cc/)
 - [Rasberry Pi](https://www.raspberrypi.org/)
-- Proteus(https://www.proteus.com/)
+- [Proteus](https://www.proteus.com/)
