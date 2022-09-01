@@ -47,7 +47,7 @@ BS , Network Engineering , 2016-2020
 
 ## Work Experience
 
-### 蒙神蜂 （2017年8月 ~ 2018年3月 ）
+### 蒙牛云计算中心 （ 2018年9月 ~ 2019年9月 ）
 
 - Mall Backend
 
