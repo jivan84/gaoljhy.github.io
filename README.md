@@ -151,6 +151,7 @@ My major road with python dev and container ops
 - self-design hardware (Proteus)
 - ACM competition second prize
 - National Robot Competition Second Prize
+- Learn different programming languages for free -[Click here](https://www.scaler.com/topics/).
 
 ----------------
 
